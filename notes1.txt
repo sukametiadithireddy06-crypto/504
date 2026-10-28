@@ -1,0 +1,2 @@
+My first DevOps practice
+Learning Git commands
